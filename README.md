@@ -4,6 +4,7 @@ Product of Sum Satisfiability
 
  Sample input to your program: 
  • To represent the formula: (a+b)*(!a+!b) 
+ 
  • The input is (1,1),(-1,-1) 
  • Output from your program should be: • true, (1,0) • Or the program could also return: • true, (0,1) • 
  Why? Verify that a=1 and b=0 make (a+b)*(!a+!b) to evaluate to true. (similarly a=0, and b=1) •
