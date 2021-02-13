@@ -1,4 +1,4 @@
-# Product-of-SUM-
+# Product-of-SUM
 Product of Sum Satisfiability
 
 
